@@ -1,4 +1,4 @@
-package tv.yakov.sockets;
+package sockets;
 
 import com.illposed.osc.OSCMessage;
 import com.illposed.osc.transport.udp.OSCPortOut;

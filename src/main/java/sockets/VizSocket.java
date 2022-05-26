@@ -1,4 +1,4 @@
-package tv.yakov.sockets;
+package sockets;
 
 import java.io.IOException;
 import java.io.InputStream;

@@ -1,6 +1,6 @@
-package tv.yakov.sockets;
+package sockets;
 
-import tv.yakov.content.Signal;
+import content.Signal;
 
 import java.io.IOException;
 import java.net.*;
