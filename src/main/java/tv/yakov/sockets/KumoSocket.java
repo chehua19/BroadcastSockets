@@ -1,9 +1,9 @@
-package sockets;
+package tv.yakov.sockets;
 
-import content.KumoConf;
+import tv.yakov.content.KumoConf;
 import org.json.JSONException;
 import org.json.JSONObject;
-import utils.Request;
+import tv.yakov.utils.Request;
 
 import java.io.IOException;
 

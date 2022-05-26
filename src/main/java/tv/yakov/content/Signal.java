@@ -1,4 +1,4 @@
-package content;
+package tv.yakov.content;
 
 public class Signal {
     private int id;

@@ -1,4 +1,4 @@
-package content;
+package tv.yakov.content;
 
 import java.util.ArrayList;
 
