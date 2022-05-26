@@ -13,6 +13,11 @@
     </remote-repository>
     <remote-repository>
       <option name="id" value="github" />
+      <option name="name" value="GitHub chehua19 Apache Maven Packages" />
+      <option name="url" value="https://maven.pkg.github.com/chehua19/BroadcastSockets" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="github" />
       <option name="name" value="github" />
       <option name="url" value="https://maven.pkg.github.com/chehua19/REPOSITORY" />
     </remote-repository>
